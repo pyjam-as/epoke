@@ -3,4 +3,4 @@
 Pyjamas epoken er vores egen mÃde at reprÃsenterer tid.
 
 ## Specifikation
-Kommer snart!
+Kommer snart, men det her tal er vigtigt: 1569074400000 
