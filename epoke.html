@@ -16,10 +16,7 @@ function toBase60(milis)
 	while(seconds > 0)
 	{
 		epoke += index[seconds % 60];
-        if(seconds > 60)
-            seconds = Math.floor(seconds / 60);
-        else
-            break;
+		seconds = Math.floor(seconds / 60);
 	}
 	return epoke
 }
